@@ -31,7 +31,7 @@ long long inv(long long n){
 }
 
 /**
- * be carefull... this main contains loop with stop condition
+ * be carefull... this main contains loop without a stop condition
  **/
 int main(){
 
